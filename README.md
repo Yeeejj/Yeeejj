@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/MvuOAlt4TmIAAAAd/anime-wave.gif" width="300" alt="Anime girl waving"/>
+# Hi there! I'm Cyrel Jane 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5YjI0ZDRiM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7iM8FMEU24/giphy.gif" width="200px"/>
 
-<br><br>
+### 🚀 Data Analyst | AI & ML Engineer | Project Manager
 
-[![ABOUT ME](https://img.shields.io/badge/ABOUT%20ME-FF6B9D?style=for-the-badge&logo=bookstack&logoColor=white)](#-about-me)
+[📜 Jump to About Me](#-about-me) • [🛠️ Tech Stack](#-tech-stack) • [🏆 Certifications](#-professional-certifications) • [📫 Connect](#-lets-connect)
 
 </div>
 
@@ -12,24 +13,26 @@
 
 ## 💫 About Me
 
-I am a multi-disciplinary technology professional specializing in the intersection of Data Science, AI/ML Engineering, and Project Management. Backed by professional certifications, I bridge the gap between complex data engineering and strategic business insights.
+I am a multi-disciplinary technology professional specializing in the intersection of **Data Science, AI/ML Engineering, and Project Management**. With a strong technical foundation in **Python, SQL, and TensorFlow**, I architect end-to-end solutions—from engineering real-time computer vision systems and high-precision telemetry dashboards to deploying containerized full-stack applications.
+
+My technical execution is backed by a massive suite of professional certifications, allowing me to bridge the gap between complex data engineering and strategic business insights. Whether building predictive models or leading agile sprints, I am driven by delivering scalable, data-driven impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI/ML & Data Science
+### 🤖 AI, Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 💻 Full-Stack Development
+### 🌐 Full-Stack & Engineering
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -60,26 +63,61 @@ I am a multi-disciplinary technology professional specializing in the intersecti
 
 ---
 
-## 🏆 Achievements
+## 🏆 Professional Certifications
 
-🎖️ **Oracle Cloud Infrastructure Generative AI Professional**
-🎖️ **Google Advanced Data Analytics Professional**
-🎖️ **Google AI Professional & Business Intelligence**
-🎖️ **Cisco Ethical Hacker & AI Fundamentals**
+### 🤖 Artificial Intelligence & Machine Learning
+* **Oracle:** OCI 2025 Certified Generative AI Professional
+* **Oracle:** OCI 2025 Certified Data Science Professional
+* **Google:** Google AI Professional Certificate
+* **IBM:** Artificial Intelligence Fundamentals
+* **Oracle:** OCI 2025 Certified Foundations Associate
+
+### 📊 Data Analytics & Business Intelligence
+* **Google:** Advanced Data Analytics Professional
+* **Google:** Business Intelligence Professional
+* **Google:** Data Analytics Professional (v.3)
+* **Oracle:** Analytics Cloud 2025 Certified Professional
+* **Oracle:** Cloud Database Services 2025 Certified Professional
+
+### 🛡️ Cybersecurity & Systems
+* **Cisco:** Ethical Hacker
+* **Cisco:** CyberOps Associate
+* **Cisco:** Operating Systems Basics
+
+### ⚙️ Project Management & UX Design
+* **Google:** Project Management Professional (v.3)
+* **Google:** Agile Essentials Specialization
+* **Google:** UX Design Professional Certificate
 
 ---
 
-## 🌐 Socials
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyreljane/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeeejj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edano.cyreljane@gmail.com)
+<div align="left">
+<a href="https://linkedin.com/in/cyreljane/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/yeeejj" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:edano.cyreljane@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://facebook.com/cyjaneed/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 <div align="center">
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeeejj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
