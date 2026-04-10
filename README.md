@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! I'm CYREL 👋
-<img src="https://media.tenor.com/0AVMYyA5uHMAAAAi/puss-in-boots-puss-in-boots-eyes.gif" width="300px" alt="Puss in Boots sad eyes"/>
+<img src="./assets/puss-in-boots.gif" width="300px" alt="Puss in Boots sad eyes"/>
 
 ### 🚀 Data Analyst | AI & ML Engineer | Project Manager
 
