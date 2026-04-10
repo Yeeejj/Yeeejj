@@ -91,6 +91,12 @@ My technical execution is backed by a massive suite of professional certificatio
 
 ---
 
+## 🎯 Interests
+
+📊 Data · 🧠 Brain · 🧬 Neuroscience · 🔮 Psychology · 💰 Money · 📈 Finance · 🏎️ F1 · ⚙️ Engines · 🐱 Cats · 🐶 Dogs · 🥑 Avocado · 🌊 Ocean · 👗 Fashion · ⚖️ Law · 📋 Management · 💼 Business · 📚 Books · 🎌 Anime
+
+---
+
 ## 📫 Let's Connect
 
 <div align="left">
