@@ -150,10 +150,10 @@ My technical execution is backed by a massive suite of professional certificatio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeeejj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeeejj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeeejj&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yeeejj&theme=radical&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeejj&theme=radical&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeeejj&theme=radical&hide_border=false&layout=compact)
 
 </div>
