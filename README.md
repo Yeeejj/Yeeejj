@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! I'm CYREL 👋
-<img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Puss_in_Boots_%28character%29.png" width="250px" alt="Puss in Boots sad eyes"/>
+<img src="https://media1.tenor.com/m/0AVMYyA5uHMAAAAd/puss-in-boots-puss-in-boots-eyes.gif" width="300px" alt="Puss in Boots sad eyes"/>
 
 ### 🚀 Data Analyst | AI & ML Engineer | Project Manager
 
