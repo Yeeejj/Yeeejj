@@ -5,7 +5,7 @@
 
 ### 🚀 Data Analyst | AI & ML Engineer | Project Manager
 
-[📜 Jump to About Me](#-about-me) • [🛠️ Tech Stack](#-tech-stack) • [🏆 Certifications](#-professional-certifications) • [📫 Connect](#-lets-connect)
+[📜 Jump to About Me](#-about-me) • [🛠️ Tech Stack](#-tech-stack) • [🏆 Certifications](#-professional-certifications) • [🎯 Interests](#-interests) • [📫 Connect](#-lets-connect)
 
 </div>
 
