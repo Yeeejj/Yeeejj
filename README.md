@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-I am a multi-disciplinary technology professional specializing in the intersection of **Data Science, AI/ML Engineering, and Project Management**. With a strong technical foundation in **Python, SQL, and TensorFlow**, I architect end-to-end solutions—from engineering real-time computer vision systems and high-precision telemetry dashboards to deploying containerized full-stack applications.
+I am a multi-disciplinary technology professional specializing in the intersection of **Data Science, AI/ML Engineering, and Project Management**. With a strong technical foundation in **Python, SQL, and TensorFlow**, I architect end-to-end solutions from engineering real-time computer vision systems and high-precision telemetry dashboards to deploying containerized full-stack applications.
 
 My technical execution is backed by a massive suite of professional certifications, allowing me to bridge the gap between complex data engineering and strategic business insights. Whether building predictive models or leading agile sprints, I am driven by delivering scalable, data-driven impact.
 
