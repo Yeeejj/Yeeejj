@@ -150,10 +150,14 @@ My technical execution is backed by a massive suite of professional certificatio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeeejj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yeeejj&theme=radical&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yeeejj&theme=radical&hide_border=false)
+![Yeeejj's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeeejj&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeeejj&theme=radical&hide_border=false&layout=compact)
+![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yeeejj&theme=radical)
+![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yeeejj&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yeeejj&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yeeejj&theme=radical&utcOffset=8)
 
 </div>
