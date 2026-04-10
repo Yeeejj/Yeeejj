@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! I'm Cyrel Jane 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5YjI0ZDRiM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkM2ZkJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7iM8FMEU24/giphy.gif" width="200px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ2OHRzYnRhbjFtcGx0NWplOWRyMjByZXB4Z3c0cXp6bHdnNHJiaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ss3JMfoKdiNyrXkMZo/giphy.gif" width="250px"/>
 
 ### 🚀 Data Analyst | AI & ML Engineer | Project Manager
 
