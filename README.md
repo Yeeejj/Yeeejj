@@ -65,29 +65,54 @@ My technical execution is backed by a massive suite of professional certificatio
 
 ## 🏆 Professional Certifications
 
-### 🤖 Artificial Intelligence & Machine Learning
-* **Oracle:** OCI 2025 Certified Generative AI Professional
-* **Oracle:** OCI 2025 Certified Data Science Professional
-* **Google:** Google AI Professional Certificate
-* **IBM:** Artificial Intelligence Fundamentals
-* **Oracle:** OCI 2025 Certified Foundations Associate
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
 
-### 📊 Data Analytics & Business Intelligence
-* **Google:** Advanced Data Analytics Professional
-* **Google:** Business Intelligence Professional
-* **Google:** Data Analytics Professional (v.3)
-* **Oracle:** Analytics Cloud 2025 Certified Professional
-* **Oracle:** Cloud Database Services 2025 Certified Professional
+<table>
+<tr>
+<td align="center" width="25%">
 
-### 🛡️ Cybersecurity & Systems
-* **Cisco:** Ethical Hacker
-* **Cisco:** CyberOps Associate
-* **Cisco:** Operating Systems Basics
+#### 🤖 AI & Data Science
 
-### ⚙️ Project Management & UX Design
-* **Google:** Project Management Professional (v.3)
-* **Google:** Agile Essentials Specialization
-* **Google:** UX Design Professional Certificate
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8E97A04E56CF1DC03DDB257440AB41F0C972C6E2C9E9DCE8F8B25F9D556DA460"><img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Generative AI"/></a><br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=33946F8C9E5E1AF1ECBDA74118E4B616C33FA99C71EBFA0A4BDD9F3195A16F48"><img src="https://img.shields.io/badge/Oracle-OCI_Data_Science_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science"/></a><br>
+<a href="https://www.credly.com/badges/0b41bc48-1c5f-4aa9-964d-cd8bc700e495/linked_in_profile"><img src="https://img.shields.io/badge/Google-AI_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/></a><br>
+<a href="https://www.credly.com/badges/d96b470d-1764-4112-9166-c689d50140c1/linked_in_profile"><img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI"/></a><br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=25541D1659AA76411CB6FCE100571F5FD3FE3044C887A123968985C7872B0A40"><img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations"/></a>
+
+</td>
+<td align="center" width="25%">
+
+#### 📊 Data & Business Analytics
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/E4MV7TP6GUG2"><img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Advanced Data Analytics"/></a><br>
+<a href="https://www.coursera.org/account/accomplishments/specialization/76TPMOK0AEK1"><img src="https://img.shields.io/badge/Google-Business_Intelligence-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google BI"/></a><br>
+<a href="https://www.credly.com/badges/1372c825-277a-4d8a-adb5-c69d03578646/linked_in_profile"><img src="https://img.shields.io/badge/Google-Data_Analytics_Professional_(v.3)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/></a><br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D8265F7D6691FA0B2A00D1FAA39814F67BF4A05EA6DE883B991804ECD307BEE6"><img src="https://img.shields.io/badge/Oracle-Analytics_Cloud_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Analytics Cloud"/></a><br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0F1EC4B473CCC55461B19CD71E8A8A7B69ADE53D17B87EC9C1C2ABF5824788E3"><img src="https://img.shields.io/badge/Oracle-Cloud_Database_Services_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud DB"/></a>
+
+</td>
+<td align="center" width="25%">
+
+#### 🛡️ Cybersecurity
+
+<a href="https://www.credly.com/badges/64c00b8b-52b3-4c5e-b594-b832de4e267c/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker"/></a><br>
+<a href="https://www.credly.com/badges/67f4682f-f0a2-42c6-aadc-b1a590184836/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps"/></a><br>
+<a href="https://www.credly.com/badges/a32739f3-6eb1-45dd-b639-b1ec0fc04d1d/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Operating_Systems_Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco OS Basics"/></a>
+
+</td>
+<td align="center" width="25%">
+
+#### ⚙️ Project Management & UX
+
+<a href="https://www.credly.com/badges/907bb47d-fee7-49c0-9b3f-bd4cbd2025a5/linked_in_profile"><img src="https://img.shields.io/badge/Google-Project_Management_(v.3)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM"/></a><br>
+<a href="https://www.coursera.org/account/accomplishments/specialization/YYK0J2SSNEQM"><img src="https://img.shields.io/badge/Google-Agile_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Agile"/></a><br>
+<a href="https://www.coursera.org/account/accomplishments/verify/X8UJVKP9NF54?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"><img src="https://img.shields.io/badge/Google-UX_Design_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google UX"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
